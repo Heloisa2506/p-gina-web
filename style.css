@@ -8,4 +8,7 @@ header{
 }
 .top1{ 
     background-color: aliceblue;
+    color: black;
+    text-align:center;
+    padding: 40px;
 }
